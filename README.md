@@ -1,10 +1,10 @@
 This is Create React App with a couple of things added.
 
 Addons:
-  -enzyme https://github.com/airbnb/enzyme
-  -styled-components https://github.com/styled-components/styled-components
-  -npm-run-all to run both test watch and local host on npm start
-  -.eslintrc file following airbnb js+react style guidelines https://github.com/airbnb/javascript
+  - enzyme https://github.com/airbnb/enzyme
+  - styled-components https://github.com/styled-components/styled-components
+  - npm-run-all to run both test watch and local host on npm start
+  - .eslintrc file following airbnb js+react style guidelines https://github.com/airbnb/javascript
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
