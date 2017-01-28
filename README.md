@@ -1,3 +1,5 @@
+Markdown Previewer! FCC data-visualization project
+
 This is Create React App with a couple of things added.
 
 Addons:
