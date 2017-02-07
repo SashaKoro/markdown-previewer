@@ -1,6 +1,8 @@
-Markdown Previewer! FCC data-visualization project
+# Markdown Previewer! FCC data-visualization project
 
-This is Create React App with a couple of things added.
+Made with React, testing with Jest and Enzyme. Styled with styled-components and bootstrap. Airbnb styled guide used. Markdown library used: https://github.com/chjj/marked
+
+This is made with Create React App with a couple of things added.
 
 Addons:
   - enzyme https://github.com/airbnb/enzyme
