@@ -20,7 +20,7 @@ export default class MarkDownPreviewer extends Component {
 
     /* eslint-disable max-len */
     this.state = {
-      output: '# This is a MarkDown Previewer \n--- \n### You can type Github markdown and see the result \n- Markdown can help you create awesome README\'s \n \n Here is some stuff you can **do**: \n 1. *italics \n 2. ***bold and italics!*** \n \n ``` \n Cool boxes! \n ``` \n > "Quotes can go here" - somebody \n \n [Library used for this project](https://github.com/chjj/marked) \n \n [Learn more about markdown](https://guides.github.com/features/mastering-markdown/)',
+      output: '# This is a MarkDown Previewer! \n--- \n### You can type Github markdown and see the result \n- Markdown can help you create awesome README\'s \n \n Here is some stuff you can **do**: \n 1. *italics \n 2. ***bold and italics!*** \n \n ``` \n Cool boxes! \n ``` \n > "Quotes can go here" - somebody \n \n [Library used for this project](https://github.com/chjj/marked) \n \n [Learn more about markdown](https://guides.github.com/features/mastering-markdown/)',
     };
 
     this.updateText = this.updateText.bind(this);
