@@ -1,16 +1,3 @@
 .body {
-  background-color: gray;
-}
-
-@media screen and (max-width: 1199px) {
-  .Textarea {
-    width: 100%;
-  }
-  .OutputArea {
-    margin-top: 25px;
-    margin-left: 0px;
-    margin-bottom: 50px;
-    margin-right: 25px;
-    max-width: 800px;
-  }
+  background-color: white;
 }

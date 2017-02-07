@@ -1,13 +1,20 @@
 import React, { PropTypes } from 'react';
 import marked from 'marked';
 import styled from 'styled-components';
-import '../index.css';
 
 const OutputDiv = styled.div`
   float: left;
   margin-left: 25px;
   margin-top: -15px;
   max-width: 500px;
+
+  @media screen and (max-width: 1199px) {
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-bottom: 50px;
+    margin-right: 25px;
+    max-width: 800px;
+  }
 `;
 
 const OutputArea = ({ incomingText }) => {
