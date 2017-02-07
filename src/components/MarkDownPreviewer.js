@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import OutputArea from './OutputArea';
+import '../index.css';
 
 const Div = styled.div`
   margin-top: 50px;

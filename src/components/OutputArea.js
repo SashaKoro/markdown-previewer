@@ -1,6 +1,7 @@
 import React, { PropTypes } from 'react';
 import marked from 'marked';
 import styled from 'styled-components';
+import '../index.css';
 
 const OutputDiv = styled.div`
   float: left;
